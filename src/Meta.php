@@ -2,7 +2,4 @@
 
 namespace Evelution\Meta;
 
-class Meta
-{
-    // Build your next great package.
-}
+class Meta {}
