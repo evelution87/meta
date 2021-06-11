@@ -11,7 +11,7 @@ This is where your description should go. Try and limit it to a paragraph or two
 You can install the package via composer:
 
 ```bash
-composer require evelution/meta
+composer require evelution87/meta
 ```
 
 ## Usage
@@ -40,7 +40,7 @@ If you discover any security related issues, please email craig@evelution.net in
 
 ## Credits
 
--   [Craig Eve](https://github.com/evelution)
+-   [Craig Eve](https://github.com/evelution87)
 -   [All Contributors](../../contributors)
 
 ## License
